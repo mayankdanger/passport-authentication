@@ -1,5 +1,5 @@
 # passport-authentication
-Login/signup with facebook & google api also
+Login/signup with facebook & google api 
 using nodejs with passport authentication
 
 To start the app 
