@@ -13,7 +13,7 @@ then open command promt in the folder loacation in which the app is
 
 then type command npm install
 
-then type command node app.js
+then type command node server.js
 
 open your browser at http://localhost:8080
 
